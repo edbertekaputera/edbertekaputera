@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am @edbertekaputera 👋
+- 😄 My full name is Edbert Ekaputera
+- 🔭 I’m interested in Software Development, Data Science and Machine Learning
+- ⚡  I'm have experience in Python Development, Web Development and Data Analysis
+- 🌱 I’m currently learning for a Bachelor's Degree of Computer Science (Big Data) in Singapore
+- 👯 I’m looking to collaborate on Future Software Development/Data Analysis Projects
+- 🤔 FUN FACT : I'm in love with sushi 🍣
 
-<!--
-**edbertekaputera/edbertekaputera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - Email     : edbertekaputera@gmail.com
+  - LinkedIn  : https://www.linkedin.com/in/edbertekaputera/
+  - Instagram : https://www.instagram.com/edbertekaputera/
+  - Discord   : https://discordapp.com/users/278148250622623744/

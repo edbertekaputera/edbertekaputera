@@ -4,7 +4,7 @@
 - ⚡  I'm have experience in Python Development, Web Development and Data Analysis
 - 🌱 I’m currently learning for a Bachelor's Degree of Computer Science (Big Data) in Singapore
 - 👯 I’m looking to collaborate on Future Software Development/Data Analysis Projects
-- 🤔 FUN FACT : I'm in love with sushi 🍣
+- 🤔 FUN FACT : I'm addicted to sushi 🍣
 
 - 📫 How to reach me:
   - Email     : edbertekaputera@gmail.com

@@ -1,9 +1,9 @@
 ### Hi there, I am @edbertekaputera 👋
 - 😄 My full name is Edbert Ekaputera
 - 🔭 I’m interested in Software Development, Data Science and Machine Learning
-- ⚡  I'm have experience in Python Development, Web Development and Data Analysis
+- ⚡  I'm have experience in Full-Stack Development, Deep Learning and Exploratory Data Analytics
 - 🌱 I’m currently learning for a Bachelor's Degree of Computer Science (Big Data) in Singapore
-- 👯 I’m looking to collaborate on Future Software Development/Data Analysis Projects
+- 👯 I’m looking to collaborate on Future Software Development/Data Analytics Projects
 - 🤔 FUN FACT : I'm addicted to sushi 🍣
 
 - 📫 How to reach me:
